@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(skydiving.f.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+img{
+    height: 50px;
+    width: 50px;
+    margin: 20px 0 0 100px;
+    border-radius: 50%;
+}
+.title{
+    margin: -60px 70px 0 0;
+    color: aqua;
+}
+.ul{
+    display: flex;
+    float: right;
+    margin: -26px 24px 0 0;
+}
+li{
+    padding: 10px;
+    color:azure;
+    list-style: none;
+}
+#desc{
+    text-align: center;
+    font-size: 85px;
+    color: #fff;
+    margin: 150px 0 0 0;
+}
+button{
+    align-items: center;
+    color: white;
+    background-color: lightgreen;
+    margin: 50px 0 0 640px;
+    border: none;
+    height: 50px;
+    width: 130px;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+button:hover{
+    align-items: center;
+    color: lightgreen;
+    background-color: rgb(240, 245, 240);
+    margin: 50px 0 0 640px;
+    border: none;
+    height: 50px;
+    width: 130px;
+    border-radius: 3px;
+    font-size: 20px;
+}
